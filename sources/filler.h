@@ -15,7 +15,7 @@
 
 # include "libft.h"
 # include <stdlib.h>
-# include "mlx.h"
+# include "../minilibx_macos/mlx.h"
 
 typedef struct	s_enf
 {
